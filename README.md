@@ -15,3 +15,11 @@ When I was at school, my favorite subject was English. I love learning about lit
 Yes, English is a beneficial subject for all students to learn at school as it enhances communication skills, provides access to a wealth of global knowledge, and increases employment opportunities in the future.
 #### **3. Do you think students are learning too many subject at school now?**
 In my opinion, students are learning too many subjects at school now. The overload of subjects can lead to a lack of depth in understanding and hinder the development of essential skills.
+
+### 1.3 TOPIC 3: Shopping
+#### **1. What is your favorite place to shop?**
+My favorite place to shop is the local farmers market. They offer fresh, organic produce and support local farmers, making it a sustainable and enjoyable shopping experience.
+#### **2. What was the last thing you bought for someone else? Where and why did you buy it?**
+I recently bought a book as a gift for my friend. I purchased it at a local bookstore because my friend loves reading and I wanted to surprise them with a thoughtful present.
+#### **3. Do you prefer going shopping on your own or going with other people? Why?**
+I prefer going shopping with other people as it provides me different perspectives and opinions, making the experience more enjoyable and fruitful.
