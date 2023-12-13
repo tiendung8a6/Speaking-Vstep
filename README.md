@@ -23,3 +23,11 @@ My favorite place to shop is the local farmers market. They offer fresh, organic
 I recently bought a book as a gift for my friend. I purchased it at a local bookstore because my friend loves reading and I wanted to surprise them with a thoughtful present.
 #### **3. Do you prefer going shopping on your own or going with other people? Why?**
 I prefer going shopping with other people as it provides me different perspectives and opinions, making the experience more enjoyable and fruitful.
+
+### 1.4 TOPIC 4: Fashion 
+#### **1. Do you like casual or formal clothes?**
+I prefer casual clothes due to their comfortable and relaxed nature. They allow for more freedom of movement and expression.
+#### **2. How do you dress to work?**
+I dress professionally for work, ensuring my attire is appropriate and reflects a polished image. I choose outfits that are comfortable yet maintain a level of sophistication.
+#### **3. What's your favourite clothing item in winter?**
+My favorite clothing item in winter is a cozy oversized sweater. It keeps me warm and comfortable during the cold season.
