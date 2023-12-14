@@ -31,3 +31,11 @@ I prefer casual clothes due to their comfortable and relaxed nature. They allow 
 I dress professionally for work, ensuring my attire is appropriate and reflects a polished image. I choose outfits that are comfortable yet maintain a level of sophistication.
 #### **3. What's your favourite clothing item in winter?**
 My favorite clothing item in winter is a cozy oversized sweater. It keeps me warm and comfortable during the cold season.
+
+### 1.5 TOPIC 5: Reading 
+#### **1. What kind of books do you like to read?**
+I enjoy reading a variety of books, but my favorites are usually in the fantasy or science fiction genres. I love novels that transport me to new worlds and explore imaginative concepts.
+#### **2. Do you read the same kind of books now that you read 5 years ago?**
+Yes, my reading preferences have evolved over the past five years as I now gravitate towards more complex and thought-provoking books compared to the ones I enjoyed before.
+#### **3. When do you think is the best time to read? Why?**
+I believe the best time to read is in the early morning or before bedtime. In the morning, our minds are fresh and focused, while reading before bed helps relax and unwind our thoughts.
