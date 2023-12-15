@@ -39,3 +39,11 @@ I enjoy reading a variety of books, but my favorites are usually in the fantasy 
 Yes, my reading preferences have evolved over the past five years as I now gravitate towards more complex and thought-provoking books compared to the ones I enjoyed before.
 #### **3. When do you think is the best time to read? Why?**
 I believe the best time to read is in the early morning or before bedtime. In the morning, our minds are fresh and focused, while reading before bed helps relax and unwind our thoughts.
+
+### 1.6 TOPIC 6: Environment
+#### **1. What environment problems are popular in your areas?**
+In my area, the popular environmental problems include air pollution and deforestation. These issues have significant impacts on the health and biodiversity of our community.
+#### **2. What are the reasons?**
+Air pollution is caused by the emission of harmful gases and pollutants from vehicles, factories, and burning fossil fuels. Deforestation is primarily caused by human activities such as logging, agriculture expansion, and infrastructure development.
+#### **3. What can we do to stop these problems?**
+To address air pollution and deforestation, we must promote the use of clean energy and strict regulations on industrial emissions. Additionally, education and community involvement are vital to raise awareness about the importance of preserving forests and adopting sustainable practices.
