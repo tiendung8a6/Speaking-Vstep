@@ -47,3 +47,11 @@ In my area, the popular environmental problems include air pollution and defores
 Air pollution is caused by the emission of harmful gases and pollutants from vehicles, factories, and burning fossil fuels. Deforestation is primarily caused by human activities such as logging, agriculture expansion, and infrastructure development.
 #### **3. What can we do to stop these problems?**
 To address air pollution and deforestation, we must promote the use of clean energy and strict regulations on industrial emissions. Additionally, education and community involvement are vital to raise awareness about the importance of preserving forests and adopting sustainable practices.
+
+### 1.7 TOPIC 7: Internet
+#### **1. Can you access the Internet from where you work?**
+Yes, I can access the internet from my workplace which allows us to stay connected and make use of online resources for efficient and convenient work.
+#### **2. How does the Internet help you work or study?**
+The internet helps me work or study by providing easy access to information, research materials, and online courses, allowing me to easily and efficiently complete tasks and acquire knowledge.
+#### **3. What are the risks for the Internet users?**
+The risks for internet users include cyber attacks, online scams, identity theft, privacy breaches, exposure to inappropriate content, and addiction to social media.
