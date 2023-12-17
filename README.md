@@ -55,3 +55,11 @@ Yes, I can access the internet from my workplace which allows us to stay connect
 The internet helps me work or study by providing easy access to information, research materials, and online courses, allowing me to easily and efficiently complete tasks and acquire knowledge.
 #### **3. What are the risks for the Internet users?**
 The risks for internet users include cyber attacks, online scams, identity theft, privacy breaches, exposure to inappropriate content, and addiction to social media.
+
+### 1.8 TOPIC 8: Music
+#### **1. Do you like music? If yes, what kind of music do you like best? Why? If no, why not?**
+Yes, I love music because it brings joy and relaxation to my life. I particularly enjoy pop music as it has catchy melodies and relatable lyrics that uplift my mood.
+#### **2. What is the most popular kind of music in your country?**
+The most popular kind of music in my country is pop music. It dominates the music charts and attracts a large fanbase with its catchy melodies and relatable lyrics.
+#### **3. How is music good or not good for people?**
+Music is good for people as it enhances mood, relieves stress, and promotes relaxation. However, excessive exposure to loud and aggressive music can have negative effects on hearing and behavior.
