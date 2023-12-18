@@ -63,3 +63,11 @@ Yes, I love music because it brings joy and relaxation to my life. I particularl
 The most popular kind of music in my country is pop music. It dominates the music charts and attracts a large fanbase with its catchy melodies and relatable lyrics.
 #### **3. How is music good or not good for people?**
 Music is good for people as it enhances mood, relieves stress, and promotes relaxation. However, excessive exposure to loud and aggressive music can have negative effects on hearing and behavior.
+
+### 1.9 TOPIC 9: Staying Healthy
+#### **1. What do you do to live healthy?**
+To live healthy, I exercise regularly and eat a balanced diet with plenty of fruits and vegetables. I also prioritize getting enough sleep and staying hydrated.
+#### **2. Do you think eating healthy or doing the exercise is important?**
+I personally believe that both eating healthy and doing exercise are important. They complement each other in promoting overall well-being, as a balanced diet nourishes the body while regular exercise strengthens it.
+#### **3. Can you suggest some ways to stay healthy?**
+There are various ways to stay healthy, such as maintaining a balanced diet and regular exercise, getting enough sleep, managing stress, and staying hydrated.
