@@ -71,3 +71,11 @@ To live healthy, I exercise regularly and eat a balanced diet with plenty of fru
 I personally believe that both eating healthy and doing exercise are important. They complement each other in promoting overall well-being, as a balanced diet nourishes the body while regular exercise strengthens it.
 #### **3. Can you suggest some ways to stay healthy?**
 There are various ways to stay healthy, such as maintaining a balanced diet and regular exercise, getting enough sleep, managing stress, and staying hydrated.
+
+### 1.10 TOPIC 10: Your Birthday
+#### **1. When is your birthday?**
+My birthday is on June 8th, every year. It's a special day for me and I always look forward to celebrating it with my friends and family.
+#### **2. What do you usually do on your birthday?**
+On my birthday, I usually gather with close family and friends to celebrate. We enjoy a delicious meal together and exchange heartfelt gifts to create everlasting memories.
+#### **3. What is your favourite family celebration? Why?**
+My favorite family celebration is TET holiday because it brings everyone together, creating a warm and joyful atmosphere filled with love, presents, and delicious food.
