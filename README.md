@@ -79,3 +79,11 @@ My birthday is on June 8th, every year. It's a special day for me and I always l
 On my birthday, I usually gather with close family and friends to celebrate. We enjoy a delicious meal together and exchange heartfelt gifts to create everlasting memories.
 #### **3. What is your favourite family celebration? Why?**
 My favorite family celebration is TET holiday because it brings everyone together, creating a warm and joyful atmosphere filled with love, presents, and delicious food.
+
+### 1.11 TOPIC 11: Mobile Phones
+#### **1. Do you use a mobile phone?**
+Yes, I use a mobile phone as it helps me stay connected with friends and family, access the internet, and manage my daily tasks efficiently.
+#### **2. What are the good points of mobile phones?**
+Mobile phones have greatly improved communication, allowing people to stay connected with family and friends even when they are far apart. Additionally, they provide convenience through various useful applications and services.
+#### **3. What are the bad points of mobile phones??**
+Mobile phones can negatively impact personal relationships and social interactions. They can also lead to addiction, distraction, and a decline in mental health.
