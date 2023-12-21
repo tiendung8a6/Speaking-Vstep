@@ -87,3 +87,11 @@ Yes, I use a mobile phone as it helps me stay connected with friends and family,
 Mobile phones have greatly improved communication, allowing people to stay connected with family and friends even when they are far apart. Additionally, they provide convenience through various useful applications and services.
 #### **3. What are the bad points of mobile phones??**
 Mobile phones can negatively impact personal relationships and social interactions. They can also lead to addiction, distraction, and a decline in mental health.
+
+### 1.12 TOPIC 12: Updating The News
+#### **1. How often do you update news?**
+I update news regularly to stay informed and up-to-date with current events. It is crucial to be aware of the latest developments and trends in the world, and I make it a habit to check for updates frequently.
+#### **2. Which sources do you update news?**
+I update news from a variety of sources such as online news website and applications. Additionally, I stay informed through social media platforms that provide quick and read-time updates on current events.
+#### **3. How important is it to update news?**
+Updating news is crucial as it enables individuals to stay informed and make well-informed decisions. It provides up-to-date information on various topics, fostering an aware and knowledgeable society.
