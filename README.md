@@ -95,3 +95,11 @@ I update news regularly to stay informed and up-to-date with current events. It 
 I update news from a variety of sources such as online news website and applications. Additionally, I stay informed through social media platforms that provide quick and read-time updates on current events.
 #### **3. How important is it to update news?**
 Updating news is crucial as it enables individuals to stay informed and make well-informed decisions. It provides up-to-date information on various topics, fostering an aware and knowledgeable society.
+
+### 1.13 TOPIC 13: Art
+#### **1. Who is your favorite artist? Why so?**
+My favorite artist is Vincent van Gogh because his brushstrokes and use of color create vibrant and emotional paintings that truly resonate with me.
+#### **2. Can you name a song that describes yourself?**
+One song that describes myself is "Fight Song" by Rachel Platten. It inspires me to keep persevering and standing strong even in the face of challenges.
+#### **3. What kind of music do you listen to the best?**
+I enjoy listening to a diverse range of music genres, but my favorite is undoubtedly classical music. Its timeless melodies and intricate compositions never fail to captivate me.
