@@ -103,3 +103,11 @@ My favorite artist is Vincent van Gogh because his brushstrokes and use of color
 One song that describes myself is "Fight Song" by Rachel Platten. It inspires me to keep persevering and standing strong even in the face of challenges.
 #### **3. What kind of music do you listen to the best?**
 I enjoy listening to a diverse range of music genres, but my favorite is undoubtedly classical music. Its timeless melodies and intricate compositions never fail to captivate me.
+
+### 1.14 TOPIC 14: Celebrities
+#### **1. Who is your favourite in your country?**
+My favorite celebrity in my country is Mai Phuong Thuy, a former Miss VietNam winner who inspires me with her beauty and intelligence.
+#### **2. Do you want to be a celebrity?**
+I don't want to be a celebrity. I value my privacy and prefer a simple life focused on personal growth and meaningful relationships.
+#### **3. Do you like any foreign celebrities?**
+Yes, I do like some foreign celebrities. They bring diversity and fresh perspectives to the entertainment industry, making it more exciting and enjoyable.
