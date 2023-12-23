@@ -111,3 +111,11 @@ My favorite celebrity in my country is Mai Phuong Thuy, a former Miss VietNam wi
 I don't want to be a celebrity. I value my privacy and prefer a simple life focused on personal growth and meaningful relationships.
 #### **3. Do you like any foreign celebrities?**
 Yes, I do like some foreign celebrities. They bring diversity and fresh perspectives to the entertainment industry, making it more exciting and enjoyable.
+
+### 1.15 TOPIC 15: Dictionaries
+#### **1. Do you use a dictionary? Why?**
+Yes, I use a dictionary because it helps me expand my vocabulary and provides accurate definitions for words, which aids in better communication and understanding.
+#### **2. What do you prefer, paper or electronic dictionary?**
+I prefer electronic dictionaries as they are more convenient and efficient for quick word searches. Additionally, they provide pronunciation and usage examples, enhancing language learning experience.
+#### **3. Do you think a dictionary helps to learn English?**
+Yes, a dictionary is an invaluable tool to learn English as it provides definitions, translations, and proper usage of words, aiding in understanding and expanding vocabulary.
