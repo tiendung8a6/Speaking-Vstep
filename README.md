@@ -119,3 +119,11 @@ Yes, I use a dictionary because it helps me expand my vocabulary and provides ac
 I prefer electronic dictionaries as they are more convenient and efficient for quick word searches. Additionally, they provide pronunciation and usage examples, enhancing language learning experience.
 #### **3. Do you think a dictionary helps to learn English?**
 Yes, a dictionary is an invaluable tool to learn English as it provides definitions, translations, and proper usage of words, aiding in understanding and expanding vocabulary.
+
+### 1.16 TOPIC 16: Flower
+#### **1. Do you like flowers?**
+Yes, I do. I have a liking for various kinds of flowers including roses and sunflowers as they possess immense beauty. They never fail to captivate me.
+#### **2. What is your favourite flower?**
+Well, My favorite flower is the rose due to its captivating appearance and deep symbolism, representing love. The rose's beauty and meaning make it my top choice.
+#### **3. Do any flowers have special meaning in your country?**
+In Vietnam, the lotus flower is considered the national flower, encompassing various meanings, with purity being the foremost. President Ho Chi Minh is frequently associated by Vietnamese people with the image of the lotus.
