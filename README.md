@@ -127,3 +127,11 @@ Yes, I do. I have a liking for various kinds of flowers including roses and sunf
 Well, My favorite flower is the rose due to its captivating appearance and deep symbolism, representing love. The rose's beauty and meaning make it my top choice.
 #### **3. Do any flowers have special meaning in your country?**
 In Vietnam, the lotus flower is considered the national flower, encompassing various meanings, with purity being the foremost. President Ho Chi Minh is frequently associated by Vietnamese people with the image of the lotus.
+
+### 1.17 TOPIC 17: Transport
+#### **1. What's your favorite means of transport and why?**
+My favorite of transport is a bicycle because it is eco-friendly and helps me stay fit. It also allows me to enjoy the scenery and easily navigate through traffic.
+#### **2. What do you think of the traffic in your area?**
+I think the traffic in my area is really problematic. It causes frequent congestion and delays, making it difficult to commute and adds to the overall stress of daily life.
+#### **3. How do you travel to school everyday?**
+I travel to school everyday by taking the bus. It is a convenient and affordable option for me, as it allows to relax or catch up on work during the commute.
