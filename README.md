@@ -135,3 +135,11 @@ My favorite of transport is a bicycle because it is eco-friendly and helps me st
 I think the traffic in my area is really problematic. It causes frequent congestion and delays, making it difficult to commute and adds to the overall stress of daily life.
 #### **3. How do you travel to school everyday?**
 I travel to school everyday by taking the bus. It is a convenient and affordable option for me, as it allows to relax or catch up on work during the commute.
+
+### 1.18 TOPIC 18: Your Habits
+#### **1. What is your typical day like?**
+My typical day consists of waking up early, going to school, engaging in various activities throughout the day, and then returning home to relax and spend time with my family and friends.
+#### **2. Do you have any habits that annoy other people?**
+Yes, I have a habit of always cracking my knuckles, which annoys some people. Additionally, I tend to interrupt others during conversations, which can also irritate those around me.
+#### **3. What do you usually do when you are upset?**
+When I am upset, I usually find solace in indulging in my favorite hobbies or activities. It helps me relax, clear my mind, and eventually find a sense of peace.
