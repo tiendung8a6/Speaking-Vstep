@@ -143,3 +143,11 @@ My typical day consists of waking up early, going to school, engaging in various
 Yes, I have a habit of always cracking my knuckles, which annoys some people. Additionally, I tend to interrupt others during conversations, which can also irritate those around me.
 #### **3. What do you usually do when you are upset?**
 When I am upset, I usually find solace in indulging in my favorite hobbies or activities. It helps me relax, clear my mind, and eventually find a sense of peace.
+
+### 1.19 TOPIC 19: Relationship With Parents
+#### **1. Are you closer with your Mon or Dad? Why?**
+I am closer to my mom because she has always been my primary caregiver and we share a strong emotional bond. Her constant support and understanding make our relationship special.
+#### **2. What do you and your Mon/Dad do together?**
+My mom and I love cooking together. We often spent quality time in the kitchen, trying out new recipes and sharing delicious meals. It's a great bonding activity for us.
+#### **3. Do you want to live with your parents when you are married?**
+I would prefer to have my own space and privacy when I am married. However, I still value the support and closeness of my parents, so I would want to live in close proximity to them.
