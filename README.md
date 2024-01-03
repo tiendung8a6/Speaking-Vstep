@@ -151,3 +151,11 @@ I am closer to my mom because she has always been my primary caregiver and we sh
 My mom and I love cooking together. We often spent quality time in the kitchen, trying out new recipes and sharing delicious meals. It's a great bonding activity for us.
 #### **3. Do you want to live with your parents when you are married?**
 I would prefer to have my own space and privacy when I am married. However, I still value the support and closeness of my parents, so I would want to live in close proximity to them.
+
+### 1.20 TOPIC 20: Sport
+#### **1. What's your favourite sport?**
+My favorite sport is football because I enjoy the teamwork and excitement on the field. The competitive nature of the game keeps me engaged and I love the feeling of scoring goals.
+#### **2. Why is it your favourite sport?**
+Football is my favorite sport because it allows me to showcase my teamwork skills and express my passion for the game.
+#### **3. How important are sport in our lives? Why?**
+Sport are important in our lives because the not only keeps our bodies physically fit, but also promote teamwork and discipline. Additionally, they provide a platform for personal growth and stress relief.
