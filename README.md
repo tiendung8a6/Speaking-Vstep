@@ -159,3 +159,11 @@ My favorite sport is football because I enjoy the teamwork and excitement on the
 Football is my favorite sport because it allows me to showcase my teamwork skills and express my passion for the game.
 #### **3. How important are sport in our lives? Why?**
 Sport are important in our lives because the not only keeps our bodies physically fit, but also promote teamwork and discipline. Additionally, they provide a platform for personal growth and stress relief.
+
+### 1.21 TOPIC 21: Parties
+#### **1. Do you often go to parties?**
+Yes, I often go to parties as they provide me with opportunities to socialize and have fun with friends.
+#### **2. What's the party do you like best?**
+I enjoy the lively atmosphere and energetic dancing at the disco party. The vibrant music and vibrant crowd make it my favorite type of party.
+#### **3. Do you prefer to go parties alone or with a group of friends?**
+I prefer going to parties with a group of friends as it allows for more fun and a sense of security. Being surrounded by familiar faces enhances the overall experience and creates lasting memories.
