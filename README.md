@@ -167,3 +167,11 @@ Yes, I often go to parties as they provide me with opportunities to socialize an
 I enjoy the lively atmosphere and energetic dancing at the disco party. The vibrant music and vibrant crowd make it my favorite type of party.
 #### **3. Do you prefer to go parties alone or with a group of friends?**
 I prefer going to parties with a group of friends as it allows for more fun and a sense of security. Being surrounded by familiar faces enhances the overall experience and creates lasting memories.
+
+### 1.22 TOPIC 22: Birthday
+#### **1. How did you celebrate your last birthday?**
+On my last birthday, I had a small gathering with close friends and family. We enjoyed a delicious meal together and then went out for some fun activities.
+#### **2. What gifts did you receive?**
+On my birthday, I received many wonderful gifts from my friends and family. They gave me thoughtful presents that ranged from books and clothes to a memorable trip.
+#### **3. What do people in your area do to celebrate their birthday?**
+People in my area often celebrate birthdays by having a small gathering with close friends and family, enjoying a nice meal together, and exchanging meaningful gifts.
