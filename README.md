@@ -175,3 +175,11 @@ On my last birthday, I had a small gathering with close friends and family. We e
 On my birthday, I received many wonderful gifts from my friends and family. They gave me thoughtful presents that ranged from books and clothes to a memorable trip.
 #### **3. What do people in your area do to celebrate their birthday?**
 People in my area often celebrate birthdays by having a small gathering with close friends and family, enjoying a nice meal together, and exchanging meaningful gifts.
+
+### 1.23 TOPIC 23: Radio
+#### **1. Do you listen to the radio?**
+Yes, I listen to the radio regularly as it helps me discover new music and stay informed about current events in a convenient and enjoyable way.
+#### **2. What are channels do you listen to?**
+I listen to various channels, including music, news, and educational broadcasts. Each channel provides different content and helps me stay entertained, informed, and continuously learning.
+#### **3. What are benefits of listening to the radio?**
+Listening to the radio provides a convenient and accessible way to stay informed about current events, weather updates, and traffic reports without the need for visual attention.
