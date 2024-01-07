@@ -183,3 +183,11 @@ Yes, I listen to the radio regularly as it helps me discover new music and stay 
 I listen to various channels, including music, news, and educational broadcasts. Each channel provides different content and helps me stay entertained, informed, and continuously learning.
 #### **3. What are benefits of listening to the radio?**
 Listening to the radio provides a convenient and accessible way to stay informed about current events, weather updates, and traffic reports without the need for visual attention.
+
+### 1.24 TOPIC 24: Body Language
+#### **1. Do you often use body language in communication?**
+Yes, I do. Using body language is essential in effective communication. It helps convey emotions and intentions, making interactions more engaging and meaningful.
+#### **2. In what situations do you use body language?**
+Body language is used in various situations, such as job interviews, to convey confidence and competence. It is also employed interpersonal relationships to express emotions and establish rapport.
+#### **3. What are benefits of using body language?**
+Using body language can enhance communication by conveying emotions and intentions effectively. It also helps in building rapport, understanding non-verbal cues, and making connections beyond words.
